@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: azkaban-solo-server
-Implementation-Version: 3.91.0-353-g70837721
-
